@@ -18,13 +18,13 @@ var feed = 'http://feeds.nos.nl/nosjournaal?format=rss';
 
 // compliments:
 var morning = [
-            'Good morning, handsome!',
+            'Good morning!',
             'Enjoy your day!',
             'How was your sleep?'
         ];
         
 var afternoon = [
-            'Hello, beauty!',
+            'Hello, good-looking!',
             'You look sexy!',
             'Looking good today!'
         ];
